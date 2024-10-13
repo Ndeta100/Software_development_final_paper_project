@@ -1,0 +1,23 @@
+<configuration>
+  <input>
+    <!-- Network File -->
+    <net-file value="tallinn.net.xml"/>
+    
+    <!-- Route Files: Combined all routes in one line to avoid duplication error -->
+    <route-files value="routes.rou.xml, morning_peak_8AM.rou.xml, evening_peak_6PM.rou.xml, off_peak_2AM.rou.xml, afternoon_traffic_2PM.rou.xml"/>
+    
+    <!-- Additional Files (e.g., lane detectors) -->
+    <additional-files value="lanesensors.add.xml"/>
+  </input>
+
+  <time>
+    <!-- Simulation Start and End Time (in seconds) -->
+    <begin value="0"/>
+    <end value="7200"/>  <!-- 1 hour simulation -->
+  </time>
+  
+  <report>
+    <!-- Output Summary -->
+    <summary value="summary.xml"/>
+  </report>
+</configuration>

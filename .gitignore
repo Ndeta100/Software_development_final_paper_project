@@ -1,0 +1,22 @@
+# Ignore large data files
+*.pbf
+*.osm.xml
+*.net.xml
+*.trips.xml
+*.alt.xml
+
+# Ignore output files
+summary_data.csv
+summary.xml
+random_lane_detector_placer.py
+# Ignore cache and temporary files
+__pycache__/
+*.pyc
+*.tmp
+
+# Ignore simulation results
+*.rou.xml
+*.add.xml
+
+# Ignore VS Code settings (optional)
+.vscode/
