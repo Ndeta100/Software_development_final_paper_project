@@ -1,4 +1,3 @@
-# SUMO Traffic Simulation Project
 
 ## Overview
 This project is a comprehensive simulation of urban traffic conditions using [Simulation of Urban Mobility (SUMO)](https://www.eclipse.org/sumo/), a well-known open-source traffic simulation package. The project focuses on modeling the traffic flow in Tallinn, Estonia, to address congestion, optimize traffic control, and evaluate the impact of infrastructure changes. Through multiple simulation scenarios, the project aims to demonstrate the effectiveness of optimized traffic solutions compared to non-optimized road conditions.
