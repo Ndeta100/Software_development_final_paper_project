@@ -27,7 +27,7 @@ try:
     plt.figure(figsize=(10, 6))
     plt.plot(non_optimized, 'bo-', label=' Travel Speed Tom Tom', markerfacecolor='blue')
     plt.plot(optimized, 'rs-', label=' Travel Speed (SUMO)', markerfacecolor='red')
-    plt.title('Comparison of Speed Times: SUMO vs. Tom Tom')
+    plt.title('Comparison of Speed: SUMO vs. Tom Tom')
     plt.xlabel('Sample Index')
     plt.ylabel('Travel Speed (km/h)')
     plt.legend()
