@@ -1,0 +1,13 @@
+[2024-10-30T00:24:24.840+0000] {taskinstance.py:1125} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: sumo_simulation_dag_v2.run_evening_peak_simulation scheduled__2024-10-29T00:23:55.218832+00:00 [queued]>
+[2024-10-30T00:24:24.949+0000] {taskinstance.py:1125} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: sumo_simulation_dag_v2.run_evening_peak_simulation scheduled__2024-10-29T00:23:55.218832+00:00 [queued]>
+[2024-10-30T00:24:24.956+0000] {taskinstance.py:1331} INFO - Starting attempt 1 of 2
+[2024-10-30T00:24:25.278+0000] {taskinstance.py:1350} INFO - Executing <Task(PythonOperator): run_evening_peak_simulation> on 2024-10-29 00:23:55.218832+00:00
+[2024-10-30T00:24:25.295+0000] {standard_task_runner.py:57} INFO - Started process 209 to run task
+[2024-10-30T00:24:25.350+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'sumo_simulation_dag_v2', 'run_evening_peak_simulation', 'scheduled__2024-10-29T00:23:55.218832+00:00', '--job-id', '9', '--raw', '--subdir', 'DAGS_FOLDER/sumo_simulation_dag.py', '--cfg-path', '/tmp/tmpz3lztwpo']
+[2024-10-30T00:24:25.359+0000] {standard_task_runner.py:85} INFO - Job 9: Subtask run_evening_peak_simulation
+[2024-10-30T00:24:25.732+0000] {task_command.py:410} INFO - Running <TaskInstance: sumo_simulation_dag_v2.run_evening_peak_simulation scheduled__2024-10-29T00:23:55.218832+00:00 [running]> on host eede50442708
+[2024-10-30T00:24:26.811+0000] {taskinstance.py:1570} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='sumo_simulation_dag_v2' AIRFLOW_CTX_TASK_ID='run_evening_peak_simulation' AIRFLOW_CTX_EXECUTION_DATE='2024-10-29T00:23:55.218832+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-10-29T00:23:55.218832+00:00'
+[2024-10-30T00:24:27.664+0000] {python.py:183} INFO - Done. Returned value was: None
+[2024-10-30T00:24:27.722+0000] {taskinstance.py:1373} INFO - Marking task as SUCCESS. dag_id=sumo_simulation_dag_v2, task_id=run_evening_peak_simulation, execution_date=20241029T002355, start_date=20241030T002424, end_date=20241030T002427
+[2024-10-30T00:24:27.890+0000] {local_task_job_runner.py:232} INFO - Task exited with return code 0
+[2024-10-30T00:24:28.204+0000] {taskinstance.py:2674} INFO - 0 downstream tasks scheduled from follow-on schedule check

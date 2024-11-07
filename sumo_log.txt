@@ -1,0 +1,18 @@
+***Starting server on port 43193 ***
+Loading net-file from 'tallinn.net.xml' ... done (14086ms).
+Loading additional-files from 'lanesensors.add.xml' ... done (8ms).
+Loading done.
+Simulation started with time: 0.00
+Simulation ended at time: 676.00
+Reason: TraCI requested termination.
+Performance: 
+ Duration: 107.33s
+ TraCI-Duration: 57.72s
+ Real time factor: 6.29845
+ UPS: 13988.716831
+Vehicles: 
+ Inserted: 4772 (Loaded: 5694)
+ Running: 4123
+ Waiting: 26
+Teleports: 13 (Jam: 3, Yield: 8, Wrong Lane: 2)
+

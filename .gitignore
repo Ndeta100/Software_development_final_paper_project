@@ -8,6 +8,8 @@
 # Ignore output files
 summary_data.csv
 summary.xml
+edgedata.xml
+lane_output
 random_lane_detector_placer.py
 # Ignore cache and temporary files
 __pycache__/
@@ -17,6 +19,6 @@ __pycache__/
 # Ignore simulation results
 *.rou.xml
 *.add.xml
-
+.idea
 # Ignore VS Code settings (optional)
 .vscode/

@@ -1,0 +1,637 @@
+[2024-10-30T00:00:02.723+0000] {processor.py:156} INFO - Started process (PID=283) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:00:02.724+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:00:02.725+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:00:02.725+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:00:02.739+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:00:02.770+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:00:02.770+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:00:02.798+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:00:02.798+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:00:02.798311+00:00, run_after=2024-10-30T00:00:02.798311+00:00
+[2024-10-30T00:00:02.818+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.098 seconds
+[2024-10-30T00:00:32.875+0000] {processor.py:156} INFO - Started process (PID=288) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:00:32.876+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:00:32.877+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:00:32.877+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:00:32.890+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:00:32.919+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:00:32.919+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:00:32.943+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:00:32.942+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:00:32.942489+00:00, run_after=2024-10-30T00:00:32.942489+00:00
+[2024-10-30T00:00:32.960+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.089 seconds
+[2024-10-30T00:01:03.095+0000] {processor.py:156} INFO - Started process (PID=293) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:01:03.096+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:01:03.098+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:01:03.097+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:01:03.110+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:01:03.141+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:01:03.141+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:01:03.171+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:01:03.171+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:01:03.170785+00:00, run_after=2024-10-30T00:01:03.170785+00:00
+[2024-10-30T00:01:03.192+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.103 seconds
+[2024-10-30T00:01:33.265+0000] {processor.py:156} INFO - Started process (PID=298) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:01:33.266+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:01:33.267+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:01:33.267+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:01:33.279+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:01:33.311+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:01:33.311+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:01:33.337+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:01:33.337+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:01:33.337013+00:00, run_after=2024-10-30T00:01:33.337013+00:00
+[2024-10-30T00:01:33.358+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.098 seconds
+[2024-10-30T00:02:03.504+0000] {processor.py:156} INFO - Started process (PID=303) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:02:03.505+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:02:03.506+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:02:03.506+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:02:03.521+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:02:03.554+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:02:03.554+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:02:03.583+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:02:03.583+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:02:03.583395+00:00, run_after=2024-10-30T00:02:03.583395+00:00
+[2024-10-30T00:02:03.609+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.108 seconds
+[2024-10-30T00:02:33.675+0000] {processor.py:156} INFO - Started process (PID=308) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:02:33.677+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:02:33.678+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:02:33.677+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:02:33.689+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:02:33.717+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:02:33.717+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:02:33.739+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:02:33.739+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:02:33.739209+00:00, run_after=2024-10-30T00:02:33.739209+00:00
+[2024-10-30T00:02:33.758+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.086 seconds
+[2024-10-30T00:03:03.900+0000] {processor.py:156} INFO - Started process (PID=313) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:03:03.901+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:03:03.901+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:03:03.901+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:03:03.912+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:03:03.936+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:03:03.936+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:03:03.958+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:03:03.958+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:03:03.958112+00:00, run_after=2024-10-30T00:03:03.958112+00:00
+[2024-10-30T00:03:03.977+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.080 seconds
+[2024-10-30T00:03:34.087+0000] {processor.py:156} INFO - Started process (PID=318) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:03:34.088+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:03:34.089+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:03:34.088+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:03:34.102+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:03:34.130+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:03:34.130+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:03:34.152+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:03:34.152+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:03:34.151983+00:00, run_after=2024-10-30T00:03:34.151983+00:00
+[2024-10-30T00:03:34.170+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.087 seconds
+[2024-10-30T00:04:04.277+0000] {processor.py:156} INFO - Started process (PID=323) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:04:04.278+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:04:04.279+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:04:04.279+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:04:04.291+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:04:04.329+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:04:04.329+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:04:04.358+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:04:04.358+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:04:04.357989+00:00, run_after=2024-10-30T00:04:04.357989+00:00
+[2024-10-30T00:04:04.379+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.105 seconds
+[2024-10-30T00:04:34.448+0000] {processor.py:156} INFO - Started process (PID=328) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:04:34.449+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:04:34.450+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:04:34.450+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:04:34.463+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:04:34.495+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:04:34.495+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:04:34.521+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:04:34.521+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:04:34.521408+00:00, run_after=2024-10-30T00:04:34.521408+00:00
+[2024-10-30T00:04:34.545+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.100 seconds
+[2024-10-30T00:05:04.688+0000] {processor.py:156} INFO - Started process (PID=333) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:05:04.688+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:05:04.689+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:05:04.689+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:05:04.702+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:05:04.728+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:05:04.728+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:05:04.751+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:05:04.751+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:05:04.751074+00:00, run_after=2024-10-30T00:05:04.751074+00:00
+[2024-10-30T00:05:04.771+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.086 seconds
+[2024-10-30T00:05:34.839+0000] {processor.py:156} INFO - Started process (PID=338) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:05:34.840+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:05:34.842+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:05:34.842+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:05:34.858+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:05:34.890+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:05:34.890+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:05:34.916+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:05:34.916+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:05:34.915767+00:00, run_after=2024-10-30T00:05:34.915767+00:00
+[2024-10-30T00:05:34.936+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.100 seconds
+[2024-10-30T00:06:05.118+0000] {processor.py:156} INFO - Started process (PID=343) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:06:05.119+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:06:05.120+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:06:05.119+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:06:05.136+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:06:05.172+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:06:05.172+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:06:05.207+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:06:05.207+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:06:05.207209+00:00, run_after=2024-10-30T00:06:05.207209+00:00
+[2024-10-30T00:06:05.234+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.122 seconds
+[2024-10-30T00:06:35.307+0000] {processor.py:156} INFO - Started process (PID=348) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:06:35.308+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:06:35.309+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:06:35.309+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:06:35.323+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:06:35.354+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:06:35.354+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:06:35.382+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:06:35.382+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:06:35.382086+00:00, run_after=2024-10-30T00:06:35.382086+00:00
+[2024-10-30T00:06:35.402+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.099 seconds
+[2024-10-30T00:07:05.549+0000] {processor.py:156} INFO - Started process (PID=353) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:07:05.550+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:07:05.551+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:07:05.551+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:07:05.562+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:07:05.589+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:07:05.589+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:07:05.613+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:07:05.612+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:07:05.612737+00:00, run_after=2024-10-30T00:07:05.612737+00:00
+[2024-10-30T00:07:05.632+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.085 seconds
+[2024-10-30T00:07:35.717+0000] {processor.py:156} INFO - Started process (PID=358) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:07:35.718+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:07:35.719+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:07:35.719+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:07:35.733+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:07:35.765+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:07:35.765+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:07:35.792+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:07:35.792+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:07:35.792264+00:00, run_after=2024-10-30T00:07:35.792264+00:00
+[2024-10-30T00:07:35.814+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.101 seconds
+[2024-10-30T00:08:05.938+0000] {processor.py:156} INFO - Started process (PID=363) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:08:05.939+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:08:05.940+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:08:05.940+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:08:05.960+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:08:06.018+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:08:06.017+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:08:06.054+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:08:06.054+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:08:06.054204+00:00, run_after=2024-10-30T00:08:06.054204+00:00
+[2024-10-30T00:08:06.083+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.151 seconds
+[2024-10-30T00:08:36.236+0000] {processor.py:156} INFO - Started process (PID=368) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:08:36.238+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:08:36.239+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:08:36.239+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:08:36.256+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:08:36.296+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:08:36.296+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:08:36.331+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:08:36.331+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:08:36.331411+00:00, run_after=2024-10-30T00:08:36.331411+00:00
+[2024-10-30T00:08:36.356+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.124 seconds
+[2024-10-30T00:09:06.404+0000] {processor.py:156} INFO - Started process (PID=373) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:09:06.405+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:09:06.406+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:09:06.406+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:09:06.421+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:09:06.456+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:09:06.456+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:09:06.486+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:09:06.486+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:09:06.485827+00:00, run_after=2024-10-30T00:09:06.485827+00:00
+[2024-10-30T00:09:06.509+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.109 seconds
+[2024-10-30T00:09:36.659+0000] {processor.py:156} INFO - Started process (PID=378) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:09:36.660+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:09:36.662+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:09:36.661+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:09:36.678+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:09:36.717+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:09:36.717+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:09:36.751+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:09:36.751+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:09:36.750740+00:00, run_after=2024-10-30T00:09:36.750740+00:00
+[2024-10-30T00:09:36.777+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.125 seconds
+[2024-10-30T00:10:06.836+0000] {processor.py:156} INFO - Started process (PID=383) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:10:06.837+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:10:06.839+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:10:06.838+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:10:06.855+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:10:06.895+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:10:06.895+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:10:06.928+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:10:06.928+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:10:06.928179+00:00, run_after=2024-10-30T00:10:06.928179+00:00
+[2024-10-30T00:10:06.954+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.122 seconds
+[2024-10-30T00:10:37.094+0000] {processor.py:156} INFO - Started process (PID=388) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:10:37.095+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:10:37.097+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:10:37.097+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:10:37.114+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:10:37.154+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:10:37.153+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:10:37.189+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:10:37.189+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:10:37.188623+00:00, run_after=2024-10-30T00:10:37.188623+00:00
+[2024-10-30T00:10:37.213+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.124 seconds
+[2024-10-30T00:11:07.278+0000] {processor.py:156} INFO - Started process (PID=393) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:11:07.280+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:11:07.282+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:11:07.281+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:11:07.302+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:11:07.352+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:11:07.352+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:11:07.393+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:11:07.393+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:11:07.392941+00:00, run_after=2024-10-30T00:11:07.392941+00:00
+[2024-10-30T00:11:07.425+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.152 seconds
+[2024-10-30T00:11:37.890+0000] {processor.py:156} INFO - Started process (PID=398) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:11:37.903+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:11:37.921+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:11:37.918+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:11:38.157+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:11:38.534+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:11:38.533+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:11:38.704+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:11:38.703+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:11:38.702206+00:00, run_after=2024-10-30T00:11:38.702206+00:00
+[2024-10-30T00:11:38.788+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.952 seconds
+[2024-10-30T00:12:09.103+0000] {processor.py:156} INFO - Started process (PID=403) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:12:09.105+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:12:09.107+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:12:09.106+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:12:09.135+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:12:09.193+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:12:09.193+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:12:09.247+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:12:09.247+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:12:09.246458+00:00, run_after=2024-10-30T00:12:09.246458+00:00
+[2024-10-30T00:12:09.286+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.190 seconds
+[2024-10-30T00:12:39.490+0000] {processor.py:156} INFO - Started process (PID=408) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:12:39.493+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:12:39.496+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:12:39.495+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:12:39.544+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:12:39.649+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:12:39.649+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:12:39.740+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:12:39.739+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:12:39.738482+00:00, run_after=2024-10-30T00:12:39.738482+00:00
+[2024-10-30T00:12:39.813+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.336 seconds
+[2024-10-30T00:13:10.036+0000] {processor.py:156} INFO - Started process (PID=413) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:13:10.038+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:13:10.040+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:13:10.039+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:13:10.062+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:13:10.121+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:13:10.121+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:13:10.172+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:13:10.171+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:13:10.171327+00:00, run_after=2024-10-30T00:13:10.171327+00:00
+[2024-10-30T00:13:10.208+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.178 seconds
+[2024-10-30T00:14:18.550+0000] {processor.py:156} INFO - Started process (PID=162) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:14:18.554+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:14:18.556+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:14:18.556+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:14:18.630+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:14:18.906+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:14:18.906+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:14:19.015+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:14:19.014+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:14:19.013543+00:00, run_after=2024-10-30T00:14:19.013543+00:00
+[2024-10-30T00:14:19.099+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.559 seconds
+[2024-10-30T00:14:49.392+0000] {processor.py:156} INFO - Started process (PID=168) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:14:49.393+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:14:49.395+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:14:49.395+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:14:49.415+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:14:49.464+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:14:49.464+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:14:49.508+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:14:49.508+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:14:49.507812+00:00, run_after=2024-10-30T00:14:49.507812+00:00
+[2024-10-30T00:14:49.538+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.153 seconds
+[2024-10-30T00:15:19.714+0000] {processor.py:156} INFO - Started process (PID=173) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:15:19.715+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:15:19.718+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:15:19.717+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:15:19.747+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:15:19.804+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:15:19.804+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:15:19.853+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:15:19.852+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:15:19.852367+00:00, run_after=2024-10-30T00:15:19.852367+00:00
+[2024-10-30T00:15:19.890+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.183 seconds
+[2024-10-30T00:15:50.083+0000] {processor.py:156} INFO - Started process (PID=178) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:15:50.085+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:15:50.087+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:15:50.086+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:15:50.110+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:15:50.167+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:15:50.166+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:15:50.215+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:15:50.215+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:15:50.215003+00:00, run_after=2024-10-30T00:15:50.215003+00:00
+[2024-10-30T00:15:50.254+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.176 seconds
+[2024-10-30T00:16:20.460+0000] {processor.py:156} INFO - Started process (PID=183) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:16:20.462+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:16:20.464+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:16:20.464+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:16:20.499+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:16:20.564+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:16:20.564+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:16:20.614+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:16:20.614+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:16:20.613615+00:00, run_after=2024-10-30T00:16:20.613615+00:00
+[2024-10-30T00:16:20.651+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.199 seconds
+[2024-10-30T00:16:50.824+0000] {processor.py:156} INFO - Started process (PID=188) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:16:50.826+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:16:50.828+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:16:50.828+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:16:50.856+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:16:50.922+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:16:50.922+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:16:50.982+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:16:50.981+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:16:50.981304+00:00, run_after=2024-10-30T00:16:50.981304+00:00
+[2024-10-30T00:16:51.025+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.208 seconds
+[2024-10-30T00:17:21.210+0000] {processor.py:156} INFO - Started process (PID=193) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:17:21.212+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:17:21.214+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:17:21.213+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:17:21.241+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:17:21.304+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:17:21.303+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:17:21.354+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:17:21.353+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:17:21.353294+00:00, run_after=2024-10-30T00:17:21.353294+00:00
+[2024-10-30T00:17:21.559+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.357 seconds
+[2024-10-30T00:17:51.754+0000] {processor.py:156} INFO - Started process (PID=198) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:17:51.757+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:17:51.759+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:17:51.759+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:17:51.785+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:17:51.854+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:17:51.854+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:17:52.069+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:17:52.068+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:17:52.068402+00:00, run_after=2024-10-30T00:17:52.068402+00:00
+[2024-10-30T00:17:52.102+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.354 seconds
+[2024-10-30T00:18:22.382+0000] {processor.py:156} INFO - Started process (PID=203) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:18:22.384+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:18:22.387+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:18:22.386+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:18:22.421+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:18:22.500+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:18:22.500+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:18:22.799+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:18:22.798+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:18:22.798399+00:00, run_after=2024-10-30T00:18:22.798399+00:00
+[2024-10-30T00:18:22.846+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.473 seconds
+[2024-10-30T00:18:53.055+0000] {processor.py:156} INFO - Started process (PID=208) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:18:53.057+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:18:53.059+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:18:53.059+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:18:53.086+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:18:53.345+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:18:53.344+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:18:53.427+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:18:53.427+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:18:53.426689+00:00, run_after=2024-10-30T00:18:53.426689+00:00
+[2024-10-30T00:18:53.470+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.422 seconds
+[2024-10-30T00:19:23.687+0000] {processor.py:156} INFO - Started process (PID=213) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:19:23.689+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:19:23.691+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:19:23.690+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:19:23.712+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:19:23.900+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:19:23.900+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:19:23.941+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:19:23.941+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:19:23.940941+00:00, run_after=2024-10-30T00:19:23.940941+00:00
+[2024-10-30T00:19:23.972+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.290 seconds
+[2024-10-30T00:21:17.949+0000] {processor.py:156} INFO - Started process (PID=162) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:21:17.954+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:21:17.958+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:21:17.957+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:21:18.047+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:21:18.339+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:21:18.338+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:21:18.510+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:21:18.509+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:21:18.508312+00:00, run_after=2024-10-30T00:21:18.508312+00:00
+[2024-10-30T00:21:18.626+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.688 seconds
+[2024-10-30T00:21:48.912+0000] {processor.py:156} INFO - Started process (PID=168) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:21:48.913+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:21:48.915+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:21:48.914+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:21:48.935+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:21:48.981+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:21:48.980+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:21:49.025+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:21:49.025+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:21:49.025263+00:00, run_after=2024-10-30T00:21:49.025263+00:00
+[2024-10-30T00:21:49.055+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.148 seconds
+[2024-10-30T00:22:19.112+0000] {processor.py:156} INFO - Started process (PID=173) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:22:19.114+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:22:19.116+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:22:19.115+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:22:19.138+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:22:19.192+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:22:19.192+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:22:19.258+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:22:19.257+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:22:19.257110+00:00, run_after=2024-10-30T00:22:19.257110+00:00
+[2024-10-30T00:22:19.301+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.198 seconds
+[2024-10-30T00:22:49.400+0000] {processor.py:156} INFO - Started process (PID=178) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:22:49.401+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:22:49.403+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:22:49.402+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:22:49.423+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:22:49.469+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:22:49.469+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:22:49.510+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:22:49.510+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:22:49.509747+00:00, run_after=2024-10-30T00:22:49.509747+00:00
+[2024-10-30T00:22:49.542+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.149 seconds
+[2024-10-30T00:23:19.672+0000] {processor.py:156} INFO - Started process (PID=183) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:23:19.673+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:23:19.675+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:23:19.675+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:23:19.698+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:23:19.755+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:23:19.755+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:23:19.806+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:23:19.805+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:23:19.805438+00:00, run_after=2024-10-30T00:23:19.805438+00:00
+[2024-10-30T00:23:19.838+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.173 seconds
+[2024-10-30T00:23:24.781+0000] {processor.py:156} INFO - Started process (PID=188) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:23:24.784+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:23:24.786+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:23:24.786+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:23:24.814+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:23:24.882+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:23:24.881+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:23:24.935+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:23:24.935+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:23:24.934870+00:00, run_after=2024-10-30T00:23:24.934870+00:00
+[2024-10-30T00:23:24.981+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.210 seconds
+[2024-10-30T00:23:55.107+0000] {processor.py:156} INFO - Started process (PID=193) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:23:55.108+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:23:55.109+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:23:55.109+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:23:55.130+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:23:55.176+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:23:55.176+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:23:55.219+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:23:55.219+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-29T00:23:55.218832+00:00, run_after=2024-10-30T00:23:55.218832+00:00
+[2024-10-30T00:23:55.253+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.151 seconds
+[2024-10-30T00:24:25.660+0000] {processor.py:156} INFO - Started process (PID=210) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:24:25.670+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:24:25.678+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:24:25.677+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:24:25.861+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:24:26.523+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:24:26.522+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:24:26.807+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:24:26.806+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:24:27.715+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 2.093 seconds
+[2024-10-30T00:24:57.915+0000] {processor.py:156} INFO - Started process (PID=275) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:24:57.916+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:24:57.917+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:24:57.917+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:24:57.932+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:24:57.967+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:24:57.967+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:24:58.137+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:24:58.137+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:24:58.167+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.255 seconds
+[2024-10-30T00:25:28.285+0000] {processor.py:156} INFO - Started process (PID=280) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:25:28.286+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:25:28.287+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:25:28.287+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:25:28.307+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:25:28.353+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:25:28.353+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:25:28.537+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:25:28.536+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:25:28.567+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.287 seconds
+[2024-10-30T00:25:58.723+0000] {processor.py:156} INFO - Started process (PID=285) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:25:58.724+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:25:58.725+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:25:58.725+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:25:58.743+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:25:58.909+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:25:58.909+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:25:58.940+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:25:58.940+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:25:58.963+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.245 seconds
+[2024-10-30T00:26:29.141+0000] {processor.py:156} INFO - Started process (PID=290) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:26:29.143+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:26:29.145+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:26:29.145+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:26:29.365+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:26:29.428+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:26:29.427+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:26:29.483+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:26:29.483+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:26:29.522+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.387 seconds
+[2024-10-30T00:26:59.710+0000] {processor.py:156} INFO - Started process (PID=295) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:26:59.712+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:26:59.713+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:26:59.713+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:26:59.731+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:26:59.772+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:26:59.772+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:26:59.806+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:26:59.806+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:26:59.834+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.128 seconds
+[2024-10-30T00:27:30.011+0000] {processor.py:156} INFO - Started process (PID=300) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:27:30.012+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:27:30.014+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:27:30.013+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:27:30.033+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:27:30.078+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:27:30.078+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:27:30.115+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:27:30.115+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:27:30.143+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.137 seconds
+[2024-10-30T00:28:00.304+0000] {processor.py:156} INFO - Started process (PID=305) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:28:00.307+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:28:00.310+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:28:00.309+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:28:00.351+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:28:00.432+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:28:00.432+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:28:00.507+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:28:00.506+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:28:00.561+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.266 seconds
+[2024-10-30T00:28:30.753+0000] {processor.py:156} INFO - Started process (PID=310) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:28:30.754+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:28:30.756+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:28:30.756+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:28:30.773+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:28:30.816+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:28:30.815+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:28:30.850+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:28:30.850+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:28:30.875+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.127 seconds
+[2024-10-30T00:29:00.909+0000] {processor.py:156} INFO - Started process (PID=315) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:29:00.911+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:29:00.912+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:29:00.912+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:29:00.934+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:29:00.987+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:29:00.987+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:29:01.031+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:29:01.030+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:29:01.068+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.164 seconds
+[2024-10-30T00:29:31.220+0000] {processor.py:156} INFO - Started process (PID=320) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:29:31.221+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:29:31.222+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:29:31.222+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:29:31.239+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:29:31.278+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:29:31.278+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:29:31.312+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:29:31.312+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:29:31.338+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.122 seconds
+[2024-10-30T00:30:01.402+0000] {processor.py:156} INFO - Started process (PID=325) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:30:01.404+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:30:01.405+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:30:01.405+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:30:01.423+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:30:01.464+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:30:01.464+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:30:01.498+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:30:01.498+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:30:01.527+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.129 seconds
+[2024-10-30T00:30:31.672+0000] {processor.py:156} INFO - Started process (PID=330) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:30:31.672+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:30:31.673+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:30:31.673+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:30:31.689+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:30:31.723+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:30:31.723+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:30:31.755+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:30:31.755+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:30:31.777+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.109 seconds
+[2024-10-30T00:31:01.840+0000] {processor.py:156} INFO - Started process (PID=335) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:31:01.842+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:31:01.844+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:31:01.844+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:31:01.871+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:31:01.930+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:31:01.929+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:31:01.979+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:31:01.978+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:31:02.020+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.186 seconds
+[2024-10-30T00:31:32.126+0000] {processor.py:156} INFO - Started process (PID=340) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:31:32.128+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:31:32.132+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:31:32.131+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:31:32.155+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:31:32.217+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:31:32.216+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:31:32.289+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:31:32.289+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:31:32.333+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.213 seconds
+[2024-10-30T00:32:02.371+0000] {processor.py:156} INFO - Started process (PID=345) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:32:02.372+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:32:02.374+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:32:02.374+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:32:02.395+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:32:02.445+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:32:02.445+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:32:02.492+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:32:02.492+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:32:02.529+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.163 seconds
+[2024-10-30T00:32:32.660+0000] {processor.py:156} INFO - Started process (PID=350) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:32:32.661+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:32:32.663+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:32:32.662+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:32:32.678+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:32:32.710+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:32:32.710+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:32:32.738+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:32:32.738+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:32:32.765+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.109 seconds
+[2024-10-30T00:33:02.860+0000] {processor.py:156} INFO - Started process (PID=355) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:33:02.862+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:33:02.865+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:33:02.864+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:33:02.896+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:33:02.965+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:33:02.965+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:33:03.022+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:33:03.021+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:33:03.065+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.213 seconds
+[2024-10-30T00:33:33.104+0000] {processor.py:156} INFO - Started process (PID=360) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:33:33.105+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:33:33.107+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:33:33.106+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:33:33.130+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:33:33.180+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:33:33.180+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:33:33.234+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:33:33.234+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:33:33.270+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.171 seconds
+[2024-10-30T00:34:03.394+0000] {processor.py:156} INFO - Started process (PID=365) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:34:03.395+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:34:03.397+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:34:03.396+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:34:03.413+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:34:03.452+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:34:03.451+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:34:03.487+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:34:03.487+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:34:03.511+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.121 seconds
+[2024-10-30T00:34:33.650+0000] {processor.py:156} INFO - Started process (PID=370) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:34:33.651+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:34:33.652+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:34:33.652+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:34:33.666+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:34:33.701+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:34:33.701+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:34:33.731+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:34:33.730+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:34:33.751+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.105 seconds
+[2024-10-30T00:35:03.864+0000] {processor.py:156} INFO - Started process (PID=375) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:35:03.866+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:35:03.867+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:35:03.866+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:35:03.880+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:35:03.913+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:35:03.913+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:35:03.941+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:35:03.940+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:35:03.963+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.102 seconds
+[2024-10-30T00:35:34.117+0000] {processor.py:156} INFO - Started process (PID=380) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:35:34.118+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:35:34.119+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:35:34.119+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:35:34.133+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:35:34.167+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:35:34.167+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:35:34.195+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:35:34.195+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:35:34.218+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.106 seconds
+[2024-10-30T00:36:04.297+0000] {processor.py:156} INFO - Started process (PID=385) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:36:04.299+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:36:04.301+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:36:04.300+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:36:04.320+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:36:04.403+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:36:04.403+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:36:04.443+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:36:04.443+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:36:04.475+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.183 seconds
+[2024-10-30T00:36:34.576+0000] {processor.py:156} INFO - Started process (PID=390) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:36:34.577+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:36:34.579+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:36:34.578+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:36:34.595+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:36:34.630+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:36:34.630+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:36:34.659+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:36:34.659+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:36:34.682+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.110 seconds
+[2024-10-30T00:37:04.926+0000] {processor.py:156} INFO - Started process (PID=395) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:37:04.928+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:37:04.930+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:37:04.930+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:37:04.958+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:37:05.027+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:37:05.026+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:37:05.091+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:37:05.090+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:37:05.137+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.217 seconds
+[2024-10-30T00:37:13.989+0000] {processor.py:156} INFO - Started process (PID=400) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:37:13.990+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:37:13.991+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:37:13.991+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:37:14.010+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:37:14.121+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:37:14.120+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:37:14.159+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:37:14.159+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:37:14.192+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.209 seconds
+[2024-10-30T00:37:44.376+0000] {processor.py:156} INFO - Started process (PID=405) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:37:44.377+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:37:44.378+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:37:44.378+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:37:44.391+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:37:44.422+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:37:44.422+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:37:44.450+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:37:44.450+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:37:44.471+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.098 seconds
+[2024-10-30T00:38:14.535+0000] {processor.py:156} INFO - Started process (PID=410) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:38:14.536+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:38:14.537+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:38:14.537+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:38:14.551+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:38:14.586+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:38:14.586+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:38:14.617+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:38:14.616+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:38:14.639+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.109 seconds
+[2024-10-30T00:38:53.348+0000] {processor.py:156} INFO - Started process (PID=162) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:38:53.353+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:38:53.359+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:38:53.358+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:38:53.455+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:38:53.612+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:38:53.611+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:38:53.712+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:38:53.711+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:38:53.781+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.445 seconds
+[2024-10-30T00:39:23.991+0000] {processor.py:156} INFO - Started process (PID=168) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:39:23.991+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:39:23.992+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:39:23.992+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:39:24.004+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:39:24.030+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:39:24.030+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:39:24.053+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:39:24.053+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:39:24.070+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.082 seconds
+[2024-10-30T00:39:54.148+0000] {processor.py:156} INFO - Started process (PID=173) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:39:54.148+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:39:54.149+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:39:54.149+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:39:54.164+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:39:54.196+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:39:54.196+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:39:54.226+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:39:54.226+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:39:54.248+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.104 seconds
+[2024-10-30T00:40:24.361+0000] {processor.py:156} INFO - Started process (PID=178) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:40:24.361+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:40:24.362+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:40:24.362+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:40:24.376+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:40:24.406+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:40:24.406+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:40:24.431+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:40:24.431+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:40:24.450+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.094 seconds
+[2024-10-30T00:40:54.540+0000] {processor.py:156} INFO - Started process (PID=183) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:40:54.541+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:40:54.542+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:40:54.542+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:40:54.552+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:40:54.574+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:40:54.574+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:40:54.593+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:40:54.593+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:40:54.608+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.070 seconds
+[2024-10-30T00:41:24.816+0000] {processor.py:156} INFO - Started process (PID=200) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:41:24.817+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:41:24.818+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:41:24.818+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:41:24.833+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:41:24.863+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:41:24.863+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:41:24.891+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:41:24.891+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:41:24.911+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.099 seconds
+[2024-10-30T00:41:55.015+0000] {processor.py:156} INFO - Started process (PID=205) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:41:55.015+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:41:55.016+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:41:55.016+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:41:55.031+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:41:55.061+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:41:55.061+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:41:55.089+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:41:55.089+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:41:55.220+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.209 seconds
+[2024-10-30T00:42:25.260+0000] {processor.py:156} INFO - Started process (PID=210) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:42:25.261+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:42:25.261+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:42:25.261+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:42:25.273+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:42:25.299+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:42:25.299+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:42:25.414+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:42:25.414+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:42:25.432+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.175 seconds
+[2024-10-30T00:42:55.496+0000] {processor.py:156} INFO - Started process (PID=215) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:42:55.496+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:42:55.497+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:42:55.497+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:42:55.508+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:42:55.531+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:42:55.531+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:42:55.640+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:42:55.640+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:42:55.662+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.169 seconds
+[2024-10-30T00:43:25.873+0000] {processor.py:156} INFO - Started process (PID=220) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:43:25.882+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:43:25.902+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:43:25.901+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:43:25.984+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:43:26.218+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:43:26.217+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:43:26.737+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:43:26.736+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:43:26.797+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.950 seconds
+[2024-10-30T00:44:07.264+0000] {processor.py:156} INFO - Started process (PID=162) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:44:07.288+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:44:07.322+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:44:07.321+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:44:07.551+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:44:07.816+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:44:07.815+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:44:07.957+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:44:07.956+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:44:08.123+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.941 seconds
+[2024-10-30T00:44:38.306+0000] {processor.py:156} INFO - Started process (PID=168) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:44:38.307+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:44:38.308+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:44:38.308+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:44:38.323+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:44:38.353+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:44:38.353+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:44:38.382+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:44:38.382+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:44:38.404+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.101 seconds
+[2024-10-30T00:45:08.465+0000] {processor.py:156} INFO - Started process (PID=173) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:45:08.466+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:45:08.467+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:45:08.467+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:45:08.480+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:45:08.506+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:45:08.506+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:45:08.535+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:45:08.534+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:45:08.556+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.093 seconds
+[2024-10-30T00:45:38.736+0000] {processor.py:156} INFO - Started process (PID=178) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:45:38.737+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:45:38.739+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:45:38.739+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:45:38.762+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:45:38.819+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:45:38.819+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:45:38.875+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:45:38.875+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:45:38.917+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.186 seconds
+[2024-10-30T00:46:09.135+0000] {processor.py:156} INFO - Started process (PID=183) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:46:09.137+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:46:09.139+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:46:09.138+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:46:09.170+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:46:09.232+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:46:09.232+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:46:09.286+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:46:09.285+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:46:09.332+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.204 seconds
+[2024-10-30T00:46:39.530+0000] {processor.py:156} INFO - Started process (PID=188) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:46:39.531+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:46:39.532+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:46:39.532+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:46:39.543+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:46:39.564+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:46:39.564+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:46:39.583+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:46:39.583+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:46:39.599+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.075 seconds
+[2024-10-30T00:47:09.703+0000] {processor.py:156} INFO - Started process (PID=193) to work on /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:47:09.704+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/sumo_simulation_dag.py for tasks to queue
+[2024-10-30T00:47:09.705+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:47:09.705+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:47:09.717+0000] {processor.py:809} INFO - DAG(s) dict_keys(['sumo_simulation_dag_v2']) retrieved from /opt/airflow/dags/sumo_simulation_dag.py
+[2024-10-30T00:47:09.743+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:47:09.743+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-10-30T00:47:09.766+0000] {logging_mixin.py:149} INFO - [2024-10-30T00:47:09.766+0000] {dag.py:3490} INFO - Setting next_dagrun for sumo_simulation_dag_v2 to 2024-10-30T00:23:55.218832+00:00, run_after=2024-10-31T00:23:55.218832+00:00
+[2024-10-30T00:47:09.884+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/sumo_simulation_dag.py took 0.184 seconds
