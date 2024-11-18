@@ -44,7 +44,7 @@ SUMO_WORK/
 - **random_lane_detector_placer.py**: Places lane detectors at random intersections.
 - **summary.xml**: Output summary containing key statistics from simulations.
 - **t-test.py**: Conducts statistical analysis, including t-tests, to compare traffic scenarios.
-- **travel_times_comparison.png**: Visual comparison of travel times between optimized and non-optimized conditions.
+- **travel_speed_comparison.png**: Visual comparison of travel speed between Tom Tom and simulation results.
 
 ## Installation
 To set up and run the project, follow these steps:
