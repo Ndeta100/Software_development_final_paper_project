@@ -30,7 +30,7 @@ SUMO_WORK/
 ├── tallinn.net.xml
 ├── tallinn.osm.xml
 ├── tallinn.sumocfg
-├── travel_times_comparison.png
+├── travel_speed_comparison.png
 └── write_edges.py
 ```
 
